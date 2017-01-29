@@ -1,0 +1,2 @@
+Deserializacja niezaufanych danych pochodzących od użytkownika większości developerów nie powinna wydawać się problematyczna. Dlaczego miałaby być? W końcu co najwyżej serwer dostanie dane, które po zdeserializowaniu stworzą obiekt inny od oczekiwanego, co spowoduje błąd aplikacji i przerwanie wykonania.
+

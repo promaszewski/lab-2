@@ -1,0 +1,1 @@
+Wykorzystanie Race Condition, to metoda ataku polegająca na wykonaniu zapytania w czasie krótszym niż trwa weryfikacja warunków danej akcji aplikacji, np. podczas wgrywania plików na serwer, czas między zapisaniem pliku na dysku a weryfikacją jego typu czy rozszerzenia, pozwala na wykonanie zapytania do zapisanego zasobu.
