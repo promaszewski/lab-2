@@ -1,0 +1,2 @@
+Deobfuskacja kodu jest długim i mozolnym procesem składania części oryginalnego skryptu z zakodowanych różnymi metodami fragmentów. Często w deobfuskacji nie chodzi o uzyskanie oryginalnego kodu (co jest zazwyczaj niemożliwe w racjonalnym czasie), ale o poznanie zasady działania i logiki, ukrytej na przykład w złośliwych skryptach przekierowujących użytkowników na przykład na strony hostujące exploit kity.
+
